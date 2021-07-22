@@ -1,0 +1,6 @@
+C:\Users\skbrown\source\repos\Revit-Image-Janitor\RevitJanitor\RevitJanitor\bin\Debug\RevitJanitor.dll
+C:\Users\skbrown\source\repos\Revit-Image-Janitor\RevitJanitor\RevitJanitor\bin\Debug\RevitJanitor.pdb
+C:\Users\skbrown\source\repos\Revit-Image-Janitor\RevitJanitor\RevitJanitor\obj\Debug\RevitJanitor.csproj.AssemblyReference.cache
+C:\Users\skbrown\source\repos\Revit-Image-Janitor\RevitJanitor\RevitJanitor\obj\Debug\RevitJanitor.csproj.CoreCompileInputs.cache
+C:\Users\skbrown\source\repos\Revit-Image-Janitor\RevitJanitor\RevitJanitor\obj\Debug\RevitJanitor.dll
+C:\Users\skbrown\source\repos\Revit-Image-Janitor\RevitJanitor\RevitJanitor\obj\Debug\RevitJanitor.pdb
